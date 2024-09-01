@@ -12,7 +12,7 @@ const Home = () => {
 		<div>
 			<Navbar />
 			<Jumbotron />
-			<div className="container d-flex justify-content-around">
+			<div className="container d-flex justify-content-around mb-3">
 				<Card />
 				<Card />
 				<Card />
