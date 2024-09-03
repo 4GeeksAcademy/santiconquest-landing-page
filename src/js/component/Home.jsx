@@ -9,10 +9,10 @@ import Footer from "./Footer";
 
 const Home = () => {
 	return (
-		<div>
+		<div className="w-100">
 			<Navbar />
 			<Jumbotron />
-			<div className="container d-flex justify-content-around mb-3">
+			<div className="row">
 				<Card />
 				<Card />
 				<Card />
